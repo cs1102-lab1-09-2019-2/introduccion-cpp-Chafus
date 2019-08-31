@@ -2,7 +2,16 @@
 
 Nota:
 --
-Chafus/...............0................13...............0/13.............0
+Chafus/..................11...................2.....................11/13................16.92
+
+Observacion:
+--
+Eliminar los archivos duplicados del repositorio y cambiar de nombre de:
+Ejercicio 1.cpp a ejercicio1.cpp
+Ejercicio 2.cpp a ejercicio2.cpp
+..
+Ejercicio 13.cpp a ejercicio13.cpp
+
 
 
 Nombre:
